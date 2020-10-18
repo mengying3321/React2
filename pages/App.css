@@ -1,0 +1,12 @@
+.box{
+    background-color: #000;
+
+}
+.box li{
+    display: inline-block;
+    margin-left: 30px;
+    margin-bottom: 2px;
+    padding-bottom: 5px;
+    font-size: 30px;
+    color:white;
+}
